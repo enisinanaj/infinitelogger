@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.msgpack:msgpack-core:0.8.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.msgpack/msgpack-core/0.8.15/934330fc7bad90980e71185b7a6778fb764fbd61/msgpack-core-0.8.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.msgpack/msgpack-core/0.8.15/e03704fb89d43b6cccb0a69b9e5ef7f3a61e275/msgpack-core-0.8.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

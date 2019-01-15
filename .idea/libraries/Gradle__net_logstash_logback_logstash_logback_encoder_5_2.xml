@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.logstash.logback:logstash-logback-encoder:5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/5.2/52c79b374e57ff09a9a366323f9946de811afe1e/logstash-logback-encoder-5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.logstash.logback/logstash-logback-encoder/5.2/5022f88efee7d4c8ad6fe515193447424faec2e2/logstash-logback-encoder-5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

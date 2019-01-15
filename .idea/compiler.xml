@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="at.jit.java-logging.main" target="1.8" />
+      <module name="at.jit.java-logging.test" target="1.8" />
+      <module name="net.xeraa.java-logging.main" target="1.8" />
+      <module name="net.xeraa.java-logging.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
